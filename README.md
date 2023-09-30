@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Website
 You can access the deployed version of this app on Netlify: 
    ````sh
-   https://app.netlify.com/sites/spiffy-peony-6232c0/overview
+   https://adorable-lollipop-b0299d.netlify.app/
