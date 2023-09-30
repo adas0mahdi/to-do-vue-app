@@ -55,6 +55,10 @@ onMounted(()=>{
 </script>
 
 <template>
+
+  <div class="phone">
+
+
    <main  class="app">
       <section class="greating">
         <h2 class="title">
@@ -126,5 +130,7 @@ onMounted(()=>{
           </div>
       </section>
    </main>
+
+  </div>
 </template>
 
