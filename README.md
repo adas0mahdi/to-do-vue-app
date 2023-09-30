@@ -1,5 +1,3 @@
-# Vue 3 + Vite
-
 # To-Do Vue.js App
 
 ![App Screenshot](/vue-app.png)
@@ -34,17 +32,17 @@ These instructions will help you get a copy of the project up and running on you
 
    ```sh
    git clone https://github.com/adas0mahdi/to-do-vue-app.git
-Navigate to the project directory:
-```sh
-cd to-do-vue-app
-###Install dependencies:
-```sh
-npm install
-###Run the development server:
-```sh
-npm run serve
+2. **Navigate to the project directory**:
+   ```sh
+   cd to-do-vue-app
+3. **Install dependencies**:
+   ```sh
+   npm install
+4. **Run the development server**:
+   ```sh
+   npm run serve
 
-###Open your browser and visit http://localhost:8080 to view the app.
+5. Open your browser and visit http://localhost:8080 to view the app.
 
 Usage
 Add tasks by typing in the input field and pressing "Enter" or clicking the "Add" button.
