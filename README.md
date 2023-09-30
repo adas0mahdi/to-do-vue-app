@@ -60,9 +60,9 @@ Push your changes to your fork.
 Submit a pull request to the main repository.
 Please make sure to follow the Code of Conduct.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Website
+## Website
 You can access the deployed version of this app on Netlify: 
    ````sh
    https://adorable-lollipop-b0299d.netlify.app/
