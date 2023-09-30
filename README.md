@@ -35,12 +35,16 @@ These instructions will help you get a copy of the project up and running on you
    ```sh
    git clone https://github.com/adas0mahdi/to-do-vue-app.git
 Navigate to the project directory:
+```sh
 cd to-do-vue-app
-Install dependencies:
+###Install dependencies:
+```sh
 npm install
-Run the development server:
+###Run the development server:
+```sh
 npm run serve
-Open your browser and visit http://localhost:8080 to view the app.
+
+###Open your browser and visit http://localhost:8080 to view the app.
 
 Usage
 Add tasks by typing in the input field and pressing "Enter" or clicking the "Add" button.
